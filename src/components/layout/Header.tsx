@@ -23,10 +23,12 @@ export function Header() {
       <div className="container flex h-16 items-center justify-between">
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 font-bold text-xl">
-          <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary text-primary-foreground">
-            <span className="font-mono text-sm font-bold">M</span>
-          </div>
-          <span>{siteConfig.name}</span>
+          <img
+            src="/TupleGPTLogo.png"
+            alt={siteConfig.name}
+            className="h-10 w-40"
+          />
+          {/* <span>{siteConfig.name}</span> */}
         </Link>
 
         {/* Desktop Nav */}
