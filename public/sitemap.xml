@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tuplegpt.dev/</loc>
+    <loc>https://tuplegpt.com/</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/services</loc>
+    <loc>https://tuplegpt.com/services</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/pricing</loc>
+    <loc>https://tuplegpt.com/pricing</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/how-it-works</loc>
+    <loc>https://tuplegpt.com/how-it-works</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/case-studies</loc>
+    <loc>https://tuplegpt.com/case-studies</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/case-studies/multitenant-rbac-billing</loc>
+    <loc>https://tuplegpt.com/case-studies/multitenant-rbac-billing</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/case-studies/migration-hardening</loc>
+    <loc>https://tuplegpt.com/case-studies/migration-hardening</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/blog</loc>
+    <loc>https://tuplegpt.com/blog</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/blog/multitenant-postgres-patterns</loc>
+    <loc>https://tuplegpt.com/blog/multitenant-postgres-patterns</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/blog/rbac-schema-design</loc>
+    <loc>https://tuplegpt.com/blog/rbac-schema-design</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/blog/stripe-subscriptions-database-schema</loc>
+    <loc>https://tuplegpt.com/blog/stripe-subscriptions-database-schema</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/blog/prisma-multitenancy-guide</loc>
+    <loc>https://tuplegpt.com/blog/prisma-multitenancy-guide</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/blog/safe-database-migrations-saas</loc>
+    <loc>https://tuplegpt.com/blog/safe-database-migrations-saas</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/blog/indexes-for-multitenant-saas</loc>
+    <loc>https://tuplegpt.com/blog/indexes-for-multitenant-saas</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/resources/db-intake-checklist</loc>
+    <loc>https://tuplegpt.com/resources/db-intake-checklist</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/contact</loc>
+    <loc>https://tuplegpt.com/contact</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/about</loc>
+    <loc>https://tuplegpt.com/about</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/privacy</loc>
+    <loc>https://tuplegpt.com/privacy</loc>
   </url>
   <url>
-    <loc>https://tuplegpt.dev/terms</loc>
+    <loc>https://tuplegpt.com/terms</loc>
   </url>
 </urlset>

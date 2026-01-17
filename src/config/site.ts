@@ -6,7 +6,7 @@ export const siteConfig = {
   description: "Get multi-tenant, secure schemas + ORM models for your stack. Avoid rewrites and data leaks.",
   
   // Contact
-  email: "hello@tuplegpt.dev",
+  email: "hello@tuplegpt.com",
   phone: "+1 (555) 123-4567",
   
   // Social
@@ -15,7 +15,7 @@ export const siteConfig = {
   github: "https://github.com/tuplegpt",
   
   // URLs
-  baseUrl: "https://tuplegpt.dev",
+  baseUrl: "https://tuplegpt.com",
   calendarUrl: "https://cal.com/tuplegpt/intro",
   
   // Pricing (in USD)
