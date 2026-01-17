@@ -24,9 +24,10 @@ export function Header() {
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 font-bold text-xl">
           <img
-            src="/TupleGPTLogo.png"
+            src="/TupleGPTVersion3.png"
             alt={siteConfig.name}
-            className="h-10 w-40"
+            className="h-12 w-auto object-contain"
+            style={{ marginTop: 0, marginBottom: 0, padding: 0 }}
           />
           {/* <span>{siteConfig.name}</span> */}
         </Link>
