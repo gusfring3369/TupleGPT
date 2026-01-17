@@ -1,22 +1,22 @@
 // Site configuration - Edit these values to customize the entire site
 export const siteConfig = {
   // Brand
-  name: "ModelGPT",
+  name: "TupleGPT",
   tagline: "Production-ready SaaS database design in days—not months.",
   description: "Get multi-tenant, secure schemas + ORM models for your stack. Avoid rewrites and data leaks.",
   
   // Contact
-  email: "hello@modelgpt.dev",
+  email: "hello@tuplegpt.dev",
   phone: "+1 (555) 123-4567",
   
   // Social
-  twitter: "https://twitter.com/modelgpt",
-  linkedin: "https://linkedin.com/company/modelgpt",
-  github: "https://github.com/modelgpt",
+  twitter: "https://twitter.com/tuplegpt",
+  linkedin: "https://linkedin.com/company/tuplegpt",
+  github: "https://github.com/tuplegpt",
   
   // URLs
-  baseUrl: "https://modelgpt.dev",
-  calendarUrl: "https://cal.com/modelgpt/intro",
+  baseUrl: "https://tuplegpt.dev",
+  calendarUrl: "https://cal.com/tuplegpt/intro",
   
   // Pricing (in USD)
   pricing: {
