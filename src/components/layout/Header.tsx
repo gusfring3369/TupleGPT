@@ -24,7 +24,7 @@ export function Header() {
         {/* Logo */}
         <Link to="/" className="flex items-center gap-2 font-bold text-xl">
           <img
-            src="/TupleGPTVersion3.png"
+            src="/TupleGPTLogo.svg"
             alt={siteConfig.name}
             className="h-12 w-auto object-contain"
             style={{ marginTop: 0, marginBottom: 0, padding: 0 }}
