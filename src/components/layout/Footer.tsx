@@ -46,7 +46,7 @@ export function Footer() {
               <span>{siteConfig.name}</span>
             </Link>
             <p className="text-muted-foreground max-w-sm mb-6">
-              Production-ready SaaS database design. Multi-tenant schemas, RBAC, and migrations done right.
+              AI powered production-ready SaaS database design. Multi-tenant schemas, RBAC, and migrations done right.
             </p>
             <a
               href={`mailto:${siteConfig.email}`}

@@ -138,7 +138,7 @@ export default function Index() {
               How {siteConfig.name} works
             </h2>
             <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-              Three steps to a production-ready database.
+              Three steps to an AI powered production-ready database.
             </p>
           </div>
 
@@ -184,7 +184,7 @@ export default function Index() {
                 What you get
               </h2>
               <p className="text-muted-foreground text-lg mb-8">
-                Everything you need to ship a production-ready database—no guesswork, no technical debt.
+                Everything you need to ship an AI powered production-ready database—no guesswork, no technical debt.
               </p>
 
               <div className="space-y-4">

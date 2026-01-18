@@ -2,7 +2,7 @@
 export const siteConfig = {
   // Brand
   name: "TupleGPT",
-  tagline: "Production-ready SaaS database design in days—not months.",
+  tagline: "AI powered production-ready SaaS database design in days—not months.",
   description: "Get multi-tenant, secure schemas + ORM models for your stack. Avoid rewrites and data leaks.",
   
   // Contact
