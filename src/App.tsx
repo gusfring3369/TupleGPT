@@ -11,6 +11,8 @@ import CaseStudies from "./pages/CaseStudies";
 import CaseStudyDetail from "./pages/CaseStudyDetail";
 import Blog from "./pages/Blog";
 import BlogPost from "./pages/BlogPost";
+import Tools from "./pages/Tools";
+import ToolDetail from "./pages/ToolDetail";
 import DBIntakeChecklist from "./pages/DBIntakeChecklist";
 import Contact from "./pages/Contact";
 import About from "./pages/About";
@@ -35,6 +37,8 @@ const App = () => (
           <Route path="/case-studies/:slug" element={<CaseStudyDetail />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/blog/:slug" element={<BlogPost />} />
+          <Route path="/tools" element={<Tools />} />
+          <Route path="/tools/:slug" element={<ToolDetail />} />
           <Route path="/resources/db-intake-checklist" element={<DBIntakeChecklist />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/about" element={<About />} />

@@ -42,9 +42,9 @@ export const siteConfig = {
   
   // Founder (for about page)
   founder: {
-    name: "Alex Chen",
+    name: "Sriram",
     role: "Founder & Principal Engineer",
-    bio: "15+ years building data systems at scale. Former database architect at Stripe and Shopify. Passionate about helping SaaS teams avoid the costly mistakes I've seen repeated hundreds of times.",
+    bio: "5+ years building data systems at scale. Passionate about helping SaaS teams avoid the costly mistakes I've seen repeated hundreds of times.",
     image: "/founder.jpg", // placeholder
   },
   
